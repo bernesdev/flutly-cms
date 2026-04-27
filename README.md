@@ -1,6 +1,8 @@
-# Flutly Store – Content Management System
+<img width="99" height="101" alt="Logo" src="https://github.com/user-attachments/assets/89744021-efba-4cfc-bd96-e828fd5e80e9" />
 
-**Sanity CMS** backend for the [Flutly Store](https://github.com/GabrielPeresBernes/flutly-store) mobile application.
+# Flutly Store – CMS
+
+**Sanity Content Management System** backend for the [Flutly Store](https://github.com/GabrielPeresBernes/flutly-store) mobile application.
 
 This studio provides a headless CMS for managing dynamic content including products, home page content, and other e-commerce data consumed by the Flutter mobile app.
 
