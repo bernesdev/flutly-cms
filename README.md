@@ -1,6 +1,6 @@
 <img width="99" height="101" alt="Logo" src="https://github.com/user-attachments/assets/89744021-efba-4cfc-bd96-e828fd5e80e9" />
 
-# Flutly Store – CMS
+# Flutly CMS
 
 **Sanity Content Management System** backend for the [Flutly Store](https://github.com/GabrielPeresBernes/flutly-store) mobile application.
 
