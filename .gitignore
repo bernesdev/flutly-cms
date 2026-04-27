@@ -27,3 +27,19 @@
 
 # Dotenv and similar local-only files
 *.local
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# Editor temporary files
+*.swp
+*.swo
+*~
+
+# Windows
+Thumbs.db
